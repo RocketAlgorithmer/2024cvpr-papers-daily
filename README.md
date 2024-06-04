@@ -10,12 +10,6 @@
 
 - [2023年（日更中）](2023-Paper.md)
 
-为了方便内容沉淀和检索，现已在[【CVer计算机视觉】](https://github.com/amusi/CVPR2023-Papers-with-Code/blob/master/CVer%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png) 中来完成**CV/AI优质论文、项目和应用速递**的每日更新，欢迎各位 CVer 加入！互相学习，一起进步~
-
-[【CVer计算机视觉】](https://github.com/amusi/CVPR2023-Papers-with-Code/blob/master/CVer%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png) 是最大的计算机视觉AI知识星球！每日更新！第一时间分享的方向涵盖：目标检测、语义分割、目标跟踪、Transformer、多模态、大模型、NeRF、扩散模型、深度估计、超分辨率、3D目标检测、CNN、GAN、竞赛解决方案、人脸识别、数据增广、人脸检测、数据集、NAS、AutoML、图像分割、SLAM、实例分割、人体姿态估计、视频目标分割、Re-ID、医学图像分割、显著性目标检测、自动驾驶、人群密度估计、PyTorch、人脸、车道线检测、去雾 、全景分割、行人检测、文本检测、OCR、6D姿态估计、 边缘检测、场景文本检测、视频实例分割、3D点云、模型压缩、人脸对齐、超分辨、去噪、强化学习、行为识别、OpenCV、场景文本识别、去雨、机器学习、风格迁移、视频目标检测、去模糊、显著性检测、剪枝、活体检测、人脸关键点检测、3D目标跟踪、视频修复、人脸表情识别、时序动作检测、图像检索、异常检测等
-
-![CVer学术交流群](./CVer学术交流群.png)
-
 <a name="TopPaper"></a>
 
 ## CV 顶会/顶刊
